@@ -1,0 +1,16 @@
+click
+cmake
+colorama
+customtkinter
+darkdetect
+dlib
+face_recognition_models
+face_recognition
+numpy==1.26.4
+opencv-python
+packaging
+pillow
+pip
+python-tkdnd
+setuptools
+ttkwidgets
